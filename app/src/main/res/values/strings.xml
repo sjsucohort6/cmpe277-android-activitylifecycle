@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">activity_lifecycle_assignment</string>
+    <string name="startActivityB">startActivityB</string>
+    <string name="startDialog">startDialog</string>
+</resources>
